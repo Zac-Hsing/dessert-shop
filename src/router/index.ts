@@ -21,7 +21,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory('/dessert_shop/'), 
+  history: createWebHistory('/dessert-shop/'), 
   routes,
 });
 
